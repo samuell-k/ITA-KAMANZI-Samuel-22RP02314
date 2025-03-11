@@ -1,0 +1,19 @@
+<Student>
+    <Name>John Doe</Name>
+    <Age>21</Age>
+    <Gender>Male</Gender>
+    <Subjects>
+        <Subject>
+            <Name>Mathematics</Name>
+            <Grade>A</Grade>
+        </Subject>
+        <Subject>
+            <Name>English</Name>
+            <Grade>B+</Grade>
+        </Subject>
+        <Subject>
+            <Name>Physics</Name>
+            <Grade>A-</Grade>
+        </Subject>
+    </Subjects>
+</Student>

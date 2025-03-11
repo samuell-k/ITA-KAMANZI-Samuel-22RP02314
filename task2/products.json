@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "feg",
+        "price": 333
+    },
+    {
+        "id": 2,
+        "name": "orange",
+        "price": 22
+    },
+    {
+        "id": 3,
+        "name": "computer",
+        "price": 30000
+    }
+]

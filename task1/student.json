@@ -1,0 +1,22 @@
+{
+    "Students": {
+      "name": "John Doe",
+      "age": 21,
+      "gender": "Male",
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "grade": "A"
+        },
+        {
+          "name": "English",
+          "grade": "B+"
+        },
+        {
+          "name": "Physics",
+          "grade": "A-"
+        }
+      ]
+    }
+  }
+  
